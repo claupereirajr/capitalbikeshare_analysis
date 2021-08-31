@@ -20,4 +20,4 @@ In the last decade there has been increasing concern regarding the environment a
 
 ## Exploration Data Analysis and Visualization
 
-I will focus on the exploration analysis of the capital bikeshare data for 2016Q1 initially. This data exploration stage then focused on visualizing these relationships and patterns to make it easier for the audience to understand.
+I will focus on the exploration analysis of the capital bikeshare data for 2017Q1 initially. This data exploration stage then focused on visualizing these relationships and patterns to make it easier for the audience to understand.
